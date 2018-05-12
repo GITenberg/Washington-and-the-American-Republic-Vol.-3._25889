@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4627
     wikipedia: http://en.wikipedia.org/wiki/Benson_John_Lossing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25889#Washington-and-the-American-Republic-Vol.-3.
 gutenberg_issued: '2008-06-24'
 gutenberg_type: Text
 identifiers:
