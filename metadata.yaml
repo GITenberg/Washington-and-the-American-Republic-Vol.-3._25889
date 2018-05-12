@@ -1,0 +1,31 @@
+_repo: Washington-and-the-American-Republic-Vol.-3._25889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lossing, Benson John
+    alias: Lossing, Benson J. (Benson John)
+    birthdate: 1813
+    deathdate: 1891
+    gutenberg_agent_id: '4627'
+    url: http://www.gutenberg.org/2009/agents/4627
+    wikipedia: http://en.wikipedia.org/wiki/Benson_John_Lossing
+description: ''
+gutenberg_issued: '2008-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Confederation, 1783-1789'
+- !lcsh 'United States -- History -- 1789-1801'
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799'
+title: Washington and the American Republic, Vol. 3.
+url: http://www.gutenberg.org/ebooks/25889
